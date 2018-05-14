@@ -23,6 +23,8 @@ ModelImporter:
     100030: roofgang1
     100032: //RootNode
     100034: wallstunnel1
+    100036: dak1
+    100038: Mesh10
     400000: bows1
     400002: columns1
     400004: floor1_1
@@ -41,6 +43,8 @@ ModelImporter:
     400030: roofgang1
     400032: //RootNode
     400034: wallstunnel1
+    400036: dak1
+    400038: Mesh10
     2100000: FrontColor
     2100002: BackColor
     2100004: Brick_Tumbled
@@ -57,6 +61,7 @@ ModelImporter:
     2300012: Mesh7
     2300014: Mesh8
     2300016: Mesh9
+    2300018: Mesh10
     3300000: Mesh1
     3300002: Mesh2
     3300004: Mesh3
@@ -66,6 +71,7 @@ ModelImporter:
     3300012: Mesh7
     3300014: Mesh8
     3300016: Mesh9
+    3300018: Mesh10
     4300000: Mesh1
     4300002: Mesh2
     4300004: Mesh3
@@ -75,6 +81,7 @@ ModelImporter:
     4300012: Mesh7
     4300014: Mesh8
     4300016: Mesh9
+    4300018: Mesh10
   externalObjects: {}
   materials:
     importMaterials: 1
